@@ -18,7 +18,7 @@ allprojects {
 Now you can add dependency:
 ```gradle
 dependencies {
-    implementation 'com.github.zoom-us-community:jitpack-zoom-us:5.12.8.9901'
+    implementation 'com.github.zoom-us-community:jitpack-zoom-us:zoom-sdk-android-5.13.1.11014'
 }
 ```
 
