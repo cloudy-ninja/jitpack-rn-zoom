@@ -26,4 +26,4 @@ Note: You can use commit hash instead of Tag.
 
 
 ### Links
-- [publishing](./docs/DEV.md)
+- [publishing](./docs/Dev.md)
